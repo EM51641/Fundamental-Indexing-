@@ -1,5 +1,5 @@
 import numpy as np
-
+#Made to be run on Quantconnect.com
 class Fundamental_Indexation(QCAlgorithm):
 
 
